@@ -1,0 +1,14 @@
+
+# Folders
+.vscode\
+
+#  File extensions
+*.xlsx
+*.html
+*.pdf
+*.txt
+*.json
+*.jpg
+*.png
+*checkpoint.ipynb
+*.csv
