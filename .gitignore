@@ -12,4 +12,3 @@ catboost_info\
 *.jpg
 *.png
 *checkpoint.ipynb
-*.csv
