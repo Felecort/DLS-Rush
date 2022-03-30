@@ -6,7 +6,6 @@ catboost_info\
 #  File extensions
 *.xlsx
 *.html
-*.pdf
 *.txt
 *.json
 *.jpg
