@@ -2,6 +2,7 @@
 # Folders
 .vscode
 catboost_info
+venv
 
 #  File extensions
 *.xlsx
