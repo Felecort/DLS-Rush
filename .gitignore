@@ -7,7 +7,6 @@ venv
 #  File extensions
 *.xlsx
 *.html
-*.txt
 *.json
 *.jpg
 *.png
